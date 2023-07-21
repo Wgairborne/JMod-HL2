@@ -2,7 +2,7 @@
 AddCSLuaFile()
 ENT.Type = "anim"
 ENT.PrintName = "EZ Ammo Crate"
-ENT.Author = "AdventureBoots, Jackarunda, TheOnly8Z"
+ENT.Author = "AdventureBoots, Jackarunda, TheOnly8Z test"
 ENT.Category = "JMod - EZ HL:2"
 ENT.NoSitAllowed = true
 ENT.Spawnable = true
